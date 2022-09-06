@@ -1,4 +1,4 @@
-Welcome to my profile! :)
+Welcome to my profile! :slightly_smiling_face:
 
 Here you will find projects that are meant to make people's lives easier by automating a task or providing a needed but missing functionality.
 
